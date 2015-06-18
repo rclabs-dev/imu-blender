@@ -63,7 +63,7 @@ while True:
             fifoCount = mpu.getFIFOCount()
         
         result = mpu.getFIFOBytes(packetSize)
-        # Get quaternios, q return y, x, z, w
+        # Get quaternio, q return y, x, z, w
         q = mpu.dmpGetQuaternion(result)
 
         x = "{0:.6f}".format(q['x'])
@@ -77,7 +77,7 @@ while True:
 	   print (z),
 	   print (w)
 
-	# Sent quaternios through UDP
+	# Sends quaternion through UDP
         send_data(str(x) + "," + str(y) + "," + str(z) + "," + str(w))
         fifoCount -= packetSize  
 
