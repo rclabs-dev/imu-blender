@@ -7,4 +7,5 @@ The sensor is coupled to a Raspberry PI device, where was possible to explore th
 In this way, we hope to add some contribution towards to demystifying the use of this type of sensor to applications associated with Blender and Processing. But, there applications in other areas, such as robotic, entertainment, automobilistic and aero-spatial industries, etc. 
 
 A demonstration video can be see in this link: http://youtu.be/57URktpjKhw
+
 A simple paper to read: in English (http://rclabs.com.br/projects/imu-blender/imu-blender-EN.pdf) or in Portuguese (http://rclabs.com.br/projects/imu-blender/imu-blender-PT.pdf)
