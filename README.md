@@ -7,3 +7,5 @@ The sensor is coupled to a Raspberry PI device, where was possible to explore th
 In this way, we hope to add some contribution towards to demystifying the use of this type of sensor to applications associated with Blender and Processing. But, there applications in other areas, such as robotic, entertainment, automobilistic and aero-spatial industries, etc. 
 
 A demonstration video can be see in this link: http://youtu.be/57URktpjKhw
+
+Lastly, in the "paper" folder you will find the full unpublished article in English and Portuguese. Please, if you use it academically do not forget to mention the credits.
